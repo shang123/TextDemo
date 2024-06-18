@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TextDemo2"
 include ':app'
-include ':moCore'
+include ':mycore'
